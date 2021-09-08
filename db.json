@@ -1,0 +1,39 @@
+{
+    "post": [
+      {
+        "id": 1,
+        "title": "The Differences Between a Junior, Mid-Level, and Senior Developer",
+        "date": "09/08/21",
+        "content": "Being a junior, mid-level, or senior developer doesn’t solely have to do with the years of programming experience that you have. A junior developer can even be older than a senior developer. It all comes down to skill. This doesn’t mean that a senior developer has to be an expert in everything, but it’s safe to say that senior developers are far more skilled than junior and mid-level developers",
+        "authors_id": 1
+      },
+      {
+        "id": 2,
+        "title": "These Modern Programming Languages Will Make You Suffer",
+        "date": "09/08/21",
+        "content": "What are the pros and cons of a particular programming language? Is X a good language for my task? Googling “best programming language” will give you a standard list of “Python, Java, JavaScript, C#, C++, PHP” with a vague list of pros and cons. Seeing such articles makes me cringe — their authors must have been outright lazy, inexperienced, and lacking any imagination. Let’s dive deep and find out what really sucks — and what doesn’t.",
+        "authors_id": 1
+      },
+      {
+        "id": 3,
+        "title": "Lambda, Map, and Filter in Python",
+        "date": "06/08/21",
+        "content": "Today’s piece covers using lambda, map, and filter functions in Python. We’ll be covering the basic syntax of each and walking through some examples to familiarize yourself with using them. Let’s get started!",
+        "authors_id": 2
+      }
+    ],
+    "authors": [
+      {
+        "id": 1,
+        "name": "Janis",
+        "avatar": "https://i.imgur.com/pB4YSiy.jpeg"
+      },
+      {
+        "id": 2,
+        "nome": "Silas",
+        "avatar": "https://i.imgur.com/x9XC5V7.jpeg"
+      }
+    ]
+  }
+
+

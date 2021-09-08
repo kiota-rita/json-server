@@ -1,0 +1,6 @@
+4. Qual a diferença entre put e patch?
+  O patch permite atualizar apenas uma propriedade, ja no put a atualização é feita em todos os itens 
+
+  5. Segundo a documentação do json-server e considerando a modelagem que você fez, qual seria a requisição necessária para retornar todos os posts de um determinado autor?
+  Para acessar todas as postagens do autor de id 1: http://localhost:3000/post?authors_id=1
+
